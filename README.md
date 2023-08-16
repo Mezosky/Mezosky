@@ -25,7 +25,7 @@ I am a master candidate in computer science at the university of chile passionat
     </a>
 </p>
 
-## Some info 😺
+## Some info <img src="https://www.fightersgeneration.com/characters/dio-super.gif" width="30px">
 
 <br>
 
