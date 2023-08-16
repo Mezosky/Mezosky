@@ -1,6 +1,5 @@
 <div align="center">
-    <img src='banner.png' style="border-radius: 12px"> 
-    <em>A photo of the Miami Science Museum in early 2023. This was my first trip in another country.</em>
+    <img src='banner.png' style="border-radius: 15px">
 </div>
 <br>
 
