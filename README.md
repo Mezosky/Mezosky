@@ -17,11 +17,8 @@ I am a master candidate in computer science at the university of chile passionat
     <a href="mailto:imezadelajara@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="CV.pdf">
+    <a href="cv_ignacio.pdf">
         <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
-    </a>
-    <a href="CV_es.pdf">
-        <img src="https://img.shields.io/badge/Resume (in spanish)-a?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
 
